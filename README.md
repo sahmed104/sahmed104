@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=120&section=header&text=Saud%20Ahmed&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20·%20Applied%20AI%20·%20MS%20Data%20Science%20(GSU)&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=120&section=header&text=Saud%20Ahmed&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20·%20Applied%20AI%20Systems%20S·%20MS%20Data%20Science%20(GSU)&descSize=18&descAlignY=70" />
 </p>
 
 <p align="center">
@@ -51,3 +51,4 @@
 - Supports RAG and agentic AI research
 
 ---
+## 📌 Featured Repositories
