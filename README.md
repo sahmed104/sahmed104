@@ -1,7 +1,7 @@
 # Hey everyone 👋
 
 I'm **Saud Ahmed**, a Data Analyst & AI practitioner with an MS in Data Science & Analytics (GSU ’25).  
-I work at the intersection of **analytics, AI systems, and problem-solving** — building clean data workflows, dashboards, and applied AI tools that turn complex information into clear, actionable insights.
+I work at the intersection of **analytics, AI systems, and problem-solving**; building clean data workflows, dashboards, and applied AI tools that turn complex information into clear, actionable insights.
 
 ---
 
