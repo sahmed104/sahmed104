@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Visual Tech Stack  
+## 🛠️ Tech Stack  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
